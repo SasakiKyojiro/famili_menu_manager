@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # famili_menu_manager
 =======
 [![Latest Release][latest-release-shield]][latest-release-url]
@@ -108,7 +106,3 @@ Thanks to Depot for providing build instances for our Docker image builds.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hay-kot
 [product-screenshot]: docs/docs/assets/img/home_screenshot.png
->>>>>>> master
-=======
-
->>>>>>> origin/main
